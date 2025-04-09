@@ -1,5 +1,8 @@
 package com.shinhan.day06;
 
+import lombok.Data;
+
+
 public class Account {
 
 	//1.field
