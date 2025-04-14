@@ -2,7 +2,7 @@ package com.shinhan.day06;
 
 public class MemberService {
 
-	boolean login(String id, String password) {
+	public boolean login(String id, String password) {
 		// DB학습후 데이터베이스에 가서 id, pasword에 맞는 Member가 있는지 화인할 예정이다.
 		if ((id+"!").equals("hong!") && password.equals("12345")) {
 		//if (id+"!" == "hong!" && password == "12345") {

@@ -1,6 +1,6 @@
 package com.shinhan.day06;
 
-import lombok.Data;
+ 
 
 
 public class Account {
